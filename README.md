@@ -1,2 +1,2 @@
-# preconfiguref
- 
+# Preconfigured script for my apps
+
